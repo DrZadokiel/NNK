@@ -1,0 +1,2 @@
+# NNK
+Basing on HoshinoBot 
